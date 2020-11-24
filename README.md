@@ -1,1 +1,1 @@
-Public web : https://dquanghuy4444.github.io/covid19-tracker/
+Public web : https://dquanghuy4444.github.io/Covid19Tracker/
