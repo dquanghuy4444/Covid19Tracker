@@ -1,1 +1,1 @@
-Public web : https://dquanghuy4444.github.io/Covid19Tracker/
+Public web :https://covid19trackerzz.netlify.app/
