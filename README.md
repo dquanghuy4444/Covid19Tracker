@@ -1,1 +1,1 @@
-Public web :https://covid19trackerzz.netlify.app/
+https://pohip-covid19-tracker.netlify.app/
